@@ -1,4 +1,4 @@
-### Olá, eu sou o Tiago Henrique 👋
+### Olá, eu sou o Tiago Henrique 👋 👨‍💻
 
 <div>
   <a href="https://github.com/euotiagohenrique"></a>
