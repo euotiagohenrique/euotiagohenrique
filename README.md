@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/euotiagohenrique"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euotiagohenrique&show_icons=true&theme=dracula&include_all_comits=true&count_private=true" alt="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euotiagohenrique&layout=compact&langs_count=16&theme=dracula" alt="">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=euotiagohenrique&show_icons=true&theme=dracula&include_all_comits=true&count_private=true" alt="">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euotiagohenrique&layout=compact&langs_count=16&theme=dracula" alt="">
 </div>
 
 ##
